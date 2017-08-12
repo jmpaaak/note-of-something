@@ -1,0 +1,25 @@
+{
+  "name": "test-mean-stack",
+  "version": "1.0.0",
+  "description": "testbed of mean stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmpaaak/note-of-something.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmpaaak/note-of-something/issues"
+  },
+  "homepage": "https://github.com/jmpaaak/note-of-something#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.6"
+  }
+}
